@@ -25,9 +25,8 @@ header {
 }
 #featured {
   text-align: center;
-}
-#focaccia {
-  border-radius: 20px;
+  border-left: 1px;
+  color: rgb(124, 213, 213);
 }
 #first-content {
   text-align: center;
@@ -66,4 +65,7 @@ hr {
 }
 #Method {
   margin-left: 5vh;
+}
+video {
+  border-radius: 20px;
 }
